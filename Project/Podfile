@@ -3,5 +3,5 @@ platform :osx, '10.9'
 xcodeproj "PSMTabBarControl"
 
 target "Demo" do
-  pod "PSMTabBarControl", :path => "../PSMTabBarControl.podspec"
+  pod "newton-commander-tabbarcontrol", :path => "../newton-commander-tabbarcontrol.podspec"
 end

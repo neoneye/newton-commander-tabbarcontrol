@@ -1,14 +1,14 @@
 PODS:
-  - PSMTabBarControl (1.0.3)
+  - newton-commander-tabbarcontrol (1.0.5)
 
 DEPENDENCIES:
-  - PSMTabBarControl (from `../PSMTabBarControl.podspec`)
+  - newton-commander-tabbarcontrol (from `../newton-commander-tabbarcontrol.podspec`)
 
 EXTERNAL SOURCES:
-  PSMTabBarControl:
-    :path: ../PSMTabBarControl.podspec
+  newton-commander-tabbarcontrol:
+    :path: ../newton-commander-tabbarcontrol.podspec
 
 SPEC CHECKSUMS:
-  PSMTabBarControl: 8fe88b3018fda740e455e42913a3af43bbc5db10
+  newton-commander-tabbarcontrol: 32d3ccdef79d77bf2d042bd2a2eb3911e6143b54
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.34.4
